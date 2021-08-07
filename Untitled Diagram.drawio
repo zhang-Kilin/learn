@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-07T10:13:19.876Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="op4uOMtMnSG6xXVghlNS" version="14.9.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-07T10:13:45.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="6dvr_za57T0V9ENfvgZh" version="14.9.5" type="github" pages="2">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1182" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="VJO6gOv40d7nDkX1chDL-8" value="发起http请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-4">
           <mxGeometry x="15" y="50" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VJO6gOv40d7nDkX1chDL-10" value="页面渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-4">
+        <mxCell id="VJO6gOv40d7nDkX1chDL-10" value="WebView渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-4">
           <mxGeometry x="15" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VJO6gOv40d7nDkX1chDL-9" value="解析页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-4">
@@ -276,7 +276,7 @@
         <mxCell id="VJO6gOv40d7nDkX1chDL-26" value="APP" style="swimlane;startSize=20;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-24">
           <mxGeometry y="20" width="120" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="VJO6gOv40d7nDkX1chDL-27" value="页面渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-26">
+        <mxCell id="VJO6gOv40d7nDkX1chDL-27" value="Native渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-26">
           <mxGeometry x="15" y="50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VJO6gOv40d7nDkX1chDL-30" value="H5站点" style="swimlane;startSize=20;" vertex="1" parent="VJO6gOv40d7nDkX1chDL-24">
