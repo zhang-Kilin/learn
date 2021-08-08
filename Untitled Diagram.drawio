@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-07T10:24:24.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="c9aPMNvxTDk7woz2jdl5" version="14.9.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-08T07:40:22.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="1MIK2jmGYjc_feQEcUb-" version="14.9.5" type="github" pages="3">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1182" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -293,6 +293,32 @@
             <mxPoint x="590" y="140" as="sourcePoint" />
             <mxPoint x="640" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Wt3Luoz1P4CgJSzRy76T" name="Page-3">
+    <mxGraphModel dx="1182" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-0" />
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-1" parent="q3HA6dvSH8eLFMY_VZLw-0" />
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="q3HA6dvSH8eLFMY_VZLw-1">
+          <mxGeometry x="140" y="150" width="510" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="q3HA6dvSH8eLFMY_VZLw-1">
+          <mxGeometry x="160" y="240" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="q3HA6dvSH8eLFMY_VZLw-1">
+          <mxGeometry x="420" y="240" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-5" value="APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;fontStyle=1" vertex="1" parent="q3HA6dvSH8eLFMY_VZLw-1">
+          <mxGeometry x="360" y="170" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-6" value="Native" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;fontStyle=1" vertex="1" parent="q3HA6dvSH8eLFMY_VZLw-1">
+          <mxGeometry x="231" y="280" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q3HA6dvSH8eLFMY_VZLw-7" value="WebView" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;fontStyle=1" vertex="1" parent="q3HA6dvSH8eLFMY_VZLw-1">
+          <mxGeometry x="510" y="280" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
